@@ -263,9 +263,6 @@ body {
 	margin-bottom: 25px;
 }
 
-.card_1_background{
-	background-image: url('../img/card_1_background.jpg');
-}
 
 .card_2_background{
 	background-image: url('../img/card_2_background.jpg');
@@ -279,14 +276,8 @@ body {
 	background-image: url('../img/card_4_background.jpg');
 }
 
-.card-number_modules{
-	position: absolute;
-	right: 25px;
-	bottom: 25px;
-	color: #eaeaea;
-	font-family: Arial;
-	font-size: 40px;
-}
+
+
 .Btn-modules{
 	padding: 25px 76px;
 	border: 2px solid #3f2aff;
